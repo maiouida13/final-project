@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3
 MAINTAINER Mayada Ouida "maai.ouida@gmail.com"
 COPY app.py test.py /app/
 WORKDIR /app
